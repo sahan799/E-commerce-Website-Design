@@ -13,11 +13,7 @@ A modern, responsive e-commerce website designed for a seamless shopping experie
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React.js (or Next.js for SSR)
-- **Backend:** Node.js, Express.js (or Django, Laravel, etc.)
-- **Database:** MongoDB, PostgreSQL, or Firebase
-- **Authentication:** JWT, OAuth, Firebase Auth
-- **Payment Integration:** Stripe, PayPal, Razorpay
+- **Frontend:** HTML, CSS 
 
 ## Installation
 
