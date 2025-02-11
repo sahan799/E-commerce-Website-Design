@@ -19,9 +19,8 @@ A modern, responsive e-commerce website designed for a seamless shopping experie
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ecommerce-website.git
-   cd ecommerce-website
-   ```
+   git clone 
+   ```https://github.com/sahan799/E-commerce-Website-Design/tree/main 
 
 2. Install dependencies:
    ```sh
